@@ -20,7 +20,7 @@ This is my first repository
 ![An image of the Mona Lisa](readmeImages/jinx.jpg)  
 Links to an external site.
 
-![An image of a cat](https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg）
+![An image of a cat](https://i.pinimg.com/736x/f2/17/f3/f217f3007d7751acb09cf0671327ea54.jpg)
 Links to an external site.
 
 ```
