@@ -19,7 +19,8 @@ This is my first repository
 [Link Text](https://mail.google.com/mail/u/0/#inbox)
 ![An image of the Mona Lisa](readmeImages/jinx.jpg
 Links to an external site.)
-![An image of a cat](https://placekitten.com/200/300
+
+![An image of a cat](https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg
 Links to an external site.)
 
 ```
