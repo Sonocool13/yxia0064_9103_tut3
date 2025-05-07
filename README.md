@@ -8,7 +8,7 @@ The artwork our group chose is ‘Ntange II (Grass)’ by Emily Kame Kngwarreye.
 ![Emma Larsson2](readmeImages/reference2.jpg)  
 ![Emma Larsson3](readmeImages/reference3.jpg)
 
-I am greatly inspired by the art works of [Emma Larsso](https://www.hugoandmarie.com/artists/emma-larsson/). Her works present the natural growth of organisms in nature from a microscopic perspective. I got two inspirations from it:
+I am greatly inspired by the artworks of [Emma Larsso](https://www.hugoandmarie.com/artists/emma-larsson/). Her works present the natural growth of organisms in nature from a microscopic perspective. I got two inspirations from it:
 
 - In terms of composition, large areas of color blocks can be decorated with random or regular points, lines and surfaces to make the picture more vivid.  
 - In terms of technique, the ink smudging material makes the picture more layered and more natural. In the next part, I will discuss how to achieve this technique.
